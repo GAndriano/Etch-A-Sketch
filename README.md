@@ -1,2 +1,5 @@
 # Etch-A-Sketch
-Etch-A-Sketch game 
+The classic Etch-A-Sketch game built by Javascript!
+
+# Skill Highlight:
+Demonstrates knowledge of DOM manipulation
